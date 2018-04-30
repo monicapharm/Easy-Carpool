@@ -1,0 +1,4 @@
+#Tue Feb 06 23:15:13 PST 2018
+base.0=/Users/liuqingma/Downloads/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/liuqingma/Downloads/Uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
